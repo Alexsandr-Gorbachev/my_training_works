@@ -1,8 +1,3 @@
-# my_training_works
-practice on a variety of topics
-
-Сборник различных, понравившихся работ которые разбирал и делал по своему.
-
 # ML_location_selection_for_oil_well
 Выбор локации для нефтяной скважины. 
 
